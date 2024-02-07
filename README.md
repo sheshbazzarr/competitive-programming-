@@ -1,4 +1,3 @@
-# DSA Questions,Codeforce,leetcode,Hackerrank
-Favorite language -python,C/C++,javascript && Java
+Self implementation min DSA Codeforce,leetcode,Hackerrank questions .with my Favorite language -python,javascript
 
 
